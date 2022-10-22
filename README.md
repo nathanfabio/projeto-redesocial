@@ -2,4 +2,4 @@
  Projeto básico de redes sociais
 
 ##
-Acesse aqui
+<a href="https://nathanfabio.github.io/projeto-redesocial/" target="_blanket">Acesse aqui</a>
